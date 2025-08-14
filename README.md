@@ -12,10 +12,10 @@ Podés ver la página en línea en el siguiente enlace:
 🔗 Ver página
 
 📂 Estructura del Proyecto
-index.html: Contiene toda la información sobre Goku Black: historia, habilidades, curiosidades e imágenes
+index.html: Contiene toda la información sobre Gorou: historia, habilidades, curiosidades e imágenes
 style.css: Archivo de estilos que define los colores, tipografías y diseño general de la página
 README.md: Documentación del proyecto (este archivo)
 🙋‍♂️ Sobre el autor
-Autor: Trejo Yutiel
+Autor: Charlie vega 
 Curso: 6° G - PROA
-Email: yutieltrej@gamil.com
+Email: Katrinazoevega@gmail.com
