@@ -9,7 +9,7 @@ GitHub: Para el control de versiones y gestión del proyecto
 GitHub Pages: Para publicar el sitio web en línea
 🚀 Cómo visualizar la página
 Podés ver la página en línea en el siguiente enlace:
-🔗 Ver página
+🔗 https://cherkieee.github.io/Tp-2/
 
 📂 Estructura del Proyecto
 index.html: Contiene toda la información sobre Gorou: historia, habilidades, curiosidades e imágenes
