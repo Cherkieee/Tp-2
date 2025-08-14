@@ -15,6 +15,7 @@ Podés ver la página en línea en el siguiente enlace:
 index.html: Contiene toda la información sobre Gorou: historia, habilidades, curiosidades e imágenes
 style.css: Archivo de estilos que define los colores, tipografías y diseño general de la página
 README.md: Documentación del proyecto (este archivo)
+
 🙋‍♂️ Sobre el autor
 Autor: Charlie vega 
 Curso: 6° G - PROA
